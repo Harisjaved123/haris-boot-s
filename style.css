@@ -1,0 +1,35 @@
+9 .span-item{
+ 	font-size: 13px;
+    margin-left: 25px;
+ }
+ .span-item1 {
+    font-size: 11px;
+    margin-top: -7px;
+}
+ .atage{
+ 	font-size: 13px;
+ }
+ .span-item3{
+   font-size: 10px;
+   margin-left: 5px;
+ }
+ .bold-item{
+   background: #0071c2;
+   padding: 5px;
+   border-radius: 8px 8px 8px 0;   
+ }
+ .btn{
+   margin-left: 50px;
+ }
+  @media only screen and (max-width: 992px) {
+  .hr-hidden {
+    display: none;
+  }
+ .hr-javed{
+   width: 100%;
+}
+
+
+
+
+}
